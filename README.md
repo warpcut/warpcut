@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Marco+Colussi!;" />
+</h1>
+
+### I’m Marco, a postdoctoral researcher specializing in computer vision for medical imaging, with a focus on addressing data scarcity challenges. My work involves developing deep learning models and leveraging large-scale architectures to create tools that support faster and more accurate clinical decision-making. My research interests include anomaly detection, segmentation, and domain adaptation. I conducted my Doctoral studies at the EveryWare Lab of the University of Milan, under the supervision of Sergio Mascetti. During this period i spent 6 month at the LIVIA Lab of the ETS Montreal. My research project was awarder with the Guelfo Marcucci Award for young scientist on congenital coagulopatologies.
 
 <!--
 **warpcut/warpcut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
